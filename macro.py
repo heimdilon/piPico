@@ -35,7 +35,7 @@ while True:
         time.sleep(0.01)
         keyboard.press(Keycode.Z)
         time.sleep(0.01)
-        keyboard.release(Keycode.TWO)
+        keyboard.release(Keycode.Z)
         time.sleep(0.01)
         keyboard.press(Keycode.TWO)
         time.sleep(0.01)
